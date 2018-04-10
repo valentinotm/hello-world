@@ -1,2 +1,6 @@
 # hello-world
-My first repository
+My first repository.
+
+Hello World! I am Valentin. I am from Kiev, Ukraine.
+
+
